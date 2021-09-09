@@ -8,6 +8,8 @@
 
 # configparser
 
+# to view, host php directory
+
 > python -V
 > Python 3.6.9
 
